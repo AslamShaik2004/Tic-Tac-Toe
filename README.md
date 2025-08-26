@@ -52,14 +52,14 @@ Select Option:
  2. Play With AI
 Option 1 or 2 : 
 
-📖 Learning Highlights
+## 📖 Learning Highlights
 
-This project helped practice:
+- This project helped practice:
 
-Writing clean, modular, and reusable code
+- Writing clean, modular, and reusable code
 
-Applying OOP principles in real-world scenarios
+- Applying OOP principles in real-world scenarios
 
-Handling user input and game logic efficiently
+- Handling user input and game logic efficiently
 
 🔗 Feel free to fork this project, play around, or contribute improvements! 🚀
